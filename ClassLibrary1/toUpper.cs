@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public static string run(string str)
         {
-            return str?.ToUpper();
+            return str.ToUpper();
         }
     }
 }
