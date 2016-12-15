@@ -6,7 +6,7 @@ namespace UnitTestProject1
     [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
+        [TestMethod()]
         public void TestMethod1()
         {
             string input = "Hallo world!";
